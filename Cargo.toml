@@ -22,7 +22,7 @@ incremental = true
 lto = "off"
 
 [dependencies]
-mimalloc = { version = "0.1.48", optional = true, default-features = false }
+mimalloc = { version = "0.1.50", optional = true, default-features = false }
 
 # serializing
 toml = "0.9.8"
